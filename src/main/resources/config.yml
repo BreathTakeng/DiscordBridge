@@ -1,0 +1,11 @@
+main:
+  discordBotToken:
+  chatChannelId:
+    messages:
+      discordMessageFormat: "**%player%:** %message%"
+      minecraftMessageFormat: "&8[&bDiscord&8] &c%user%&f: %message%"
+      deathMessageFormat: "**%player%:** died"
+
+status:
+  displayDeath: false
+  displayJoinAndQuit: true

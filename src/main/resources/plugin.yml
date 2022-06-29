@@ -1,0 +1,5 @@
+name: DiscordBridge
+version: '${project.version}'
+main: me.soarz.discordbridge.DiscordBridge
+api-version: 1.19
+authors: [ Santos ]
